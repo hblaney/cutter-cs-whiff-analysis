@@ -1,8 +1,7 @@
 ---
 title: "What job does the cutter actually do?"
 subtitle: "2024–2026 regular season"
-author: "Henry"
-date: "`r Sys.Date()`"
+author: "Henry Blaney"
 output:
   html_document:
     theme: paper

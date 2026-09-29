@@ -1,5 +1,7 @@
 # Cutter called-strikes and whiffs
 
+**Memo:** [What job does the cutter actually do?](https://hblaney.github.io/cutter-cs-whiff-analysis/cutter-report.html)
+
 I looked at whether cutters get called strikes or whiffs, whether pitchers throw them in the wrong counts, and where the pitch is actually worth something.
 
 Data is Baseball Savant regular season, 2024–2026 (`game_type = R`). Pitcher-years need 150 cutters. Run value is `delta_pitcher_run_exp` (not flipped). The memo is `cutter-report.html` (or knit `cutter-report.Rmd`).

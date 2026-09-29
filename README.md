@@ -17,5 +17,5 @@ Working directory = this folder.
 Packages: `dplyr`, `ggplot2`, `knitr`. The pull uses `sabRmetrics` (`data_collection.R`). `prep.R` is the working notebook.
 
 1. Run `data_collection.R` if `data/pitches_2024.rds`, `pitches_2025.rds`, and `pitches_2026.rds` are missing.  
-2. Open `report.html`, or knit `report.Rmd` (needs the three `.rds` files).
+2. Open `cutter-report.html`, or knit `cutter-report.Rmd` (needs the three `.rds` files).
 

@@ -2,7 +2,7 @@
 
 I looked at whether cutters get called strikes or whiffs, whether pitchers throw them in the wrong counts, and where the pitch is actually worth something.
 
-Data is Baseball Savant regular season, 2024–2026 (`game_type = R`). Pitcher-years need 150 cutters. Run value is `delta_pitcher_run_exp` (not flipped). The memo is `report.html` (or knit `report.Rmd`).
+Data is Baseball Savant regular season, 2024–2026 (`game_type = R`). Pitcher-years need 150 cutters. Run value is `delta_pitcher_run_exp` (not flipped). The memo is `cutter-report.html` (or knit `cutter-report.Rmd`).
 
 - Called-strike rate is about 33% and whiff rate about 21%, next to four-seams. With two strikes the cutter still whiffs about 20%.
 - Called-strike rate tracks zone rate. Two-strike usage already follows whiff rate. Median strike / whiff labels do not predict next year’s run value.
